@@ -1,0 +1,1 @@
+export { FeedNav as default } from "./FeedNav"

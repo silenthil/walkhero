@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "881235052238",
+    "firebase_url": "https://wolkhero-56de7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "wolkhero-56de7",
+    "storage_bucket": "wolkhero-56de7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881235052238:android:cdb66abfcd11192bd1b29f",
+        "android_client_info": {
+          "package_name": "com.wa2goose.walkheroyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCByl-5qM1eLj-tK7Csba9Yja3tppzfUSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
